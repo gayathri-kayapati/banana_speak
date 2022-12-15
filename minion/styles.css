@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300;400&family=Merriweather:wght@400;700&family=Roboto:wght@300;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kalam:wght@300&family=Merriweather:wght@400;700&family=Roboto:wght@300;700&display=swap");
 :root {
   --primary-color: rgb(245, 201, 56);
 }
@@ -37,4 +37,7 @@ button {
 footer {
   text-align: center;
   background-color: var(--primary-color);
+  bottom: 0;
+  height: 100px;
+  width: 100%;
 }
