@@ -24,6 +24,7 @@ main {
 .textarea {
   display: block;
   border: 1px solid black;
+  padding: 1rem;
   width: var(--width-break);
   margin: 10px auto;
   min-height: 20vh;
